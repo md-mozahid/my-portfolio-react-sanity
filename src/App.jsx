@@ -7,9 +7,9 @@ function App() {
   return (
     <>
       <div className="app">
-        <Navbar />
-        <Header />
-        <About />
+        {/* <Navbar /> */}
+        {/* <Header /> */}
+        {/* <About /> */}
         <Work />
         <Skills />
         <Testimonial />
